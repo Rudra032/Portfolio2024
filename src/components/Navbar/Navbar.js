@@ -15,7 +15,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="logo">
         <AnchorLink className="anchor-link" href="#home">
-          Rudra
+          Naman
         </AnchorLink>
         <p>.</p>
       </div>

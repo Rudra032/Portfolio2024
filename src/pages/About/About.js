@@ -14,7 +14,7 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              Hello! I'm Rudra Rathore, a skilled web developer with a master's
+              Hello! I'm Naman Rajput, a skilled web developer with a master's
               degree in computer science. I'm passionate about creating engaging
               web experiences and leveraging technology to solve real-world
               problems.
@@ -31,16 +31,16 @@ const About = () => {
               <hr style={{ width: "65%" }} />
             </div>
             <div className="about-skill">
+              <p>TypeScript</p>
+              <hr style={{ width: "55%" }} />
+            </div>
+            <div className="about-skill">
               <p>JavaScript</p>
               <hr style={{ width: "65%" }} />
             </div>
             <div className="about-skill">
               <p>React JS</p>
               <hr style={{ width: "60%" }} />
-            </div>
-            <div className="about-skill">
-              <p>React Native</p>
-              <hr style={{ width: "55%" }} />
             </div>
 
             <div className="about-skill">

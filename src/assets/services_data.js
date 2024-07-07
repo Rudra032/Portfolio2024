@@ -13,9 +13,9 @@ const Services_Data = [
   },
   {
     s_no: "03",
-    s_name: "Mobile App Development",
+    s_name: "SEO Services",
     s_desc:
-      "Develop cross-platform mobile applications using React Native for seamless performance on both iOS and Android devices. Integration with existing web applications or standalone solutions.",
+      "Improve your website's visibility on search engines with our SEO services. Optimize on-page elements, create quality content, and build backlinks to drive organic traffic and enhance search engine rankings.",
   },
   {
     s_no: "04",

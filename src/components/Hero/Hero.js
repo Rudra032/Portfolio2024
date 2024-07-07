@@ -7,12 +7,11 @@ const Hero = () => {
   return (
     <div className="hero" id="home">
       <div className="hero-title">
-        <h1>I'M Rudra Rathore</h1>
+        <h1>I'M Naman Rajput</h1>
         <span>Full Stack Developer</span>
         <p>
-          Welcome to my portfolio! I'm Rudra Rathore, a Full Stack Developer
-          turning ideas into reality through innovative web and mobile
-          solutions.
+          Welcome to my portfolio! I'm Naman Rajput, a Full Stack Developer
+          turning ideas into reality through innovative web solutions.
         </p>
       </div>
       <div className="hero-action">

@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import footer_logo from "../../assets/portfoliologo.png";
+import footer_logo from "../../assets/naman.PNG";
 import user_icon from "../../assets/user_icon.svg";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 
@@ -26,7 +26,7 @@ const Footer = () => {
       <hr />
       <div className="footer-bottom">
         <p className="footer-bottom-left">
-          &copy; 2024 Rudra Rathore. All rights reserved.
+          &copy; 2024 Naman Rajput. All rights reserved.
         </p>
 
         <div className="footer-bottom-right">
